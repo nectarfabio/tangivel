@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f0f8ff;
+    color: #333;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+header p {
+    font-size: 1.2em;
+    margin: 10px 0 20px;
+}
+
+.cta-button {
+    background-color: #ff9800;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1.2em;
+    transition: background-color 0.3s;
+}
+
+.cta-button:hover {
+    background-color: #e68900;
+}
+
+section {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.feature, .testimonial, .plan, .faq-item {
+    margin-bottom: 30px;
+}
+
+.feature img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.plan {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    display: inline-block;
+    width: 45%;
+    margin: 10px;
+}
+
+.plan h3 {
+    margin-top: 0;
+}
+
+.plan ul {
+    list
+::contentReference[oaicite:0]{index=0}
+ 
